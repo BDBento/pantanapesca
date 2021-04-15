@@ -1,6 +1,6 @@
-<footer class="site-footer">
-    <p><?php bloginfo('name') ?></p>
-</footer>
+    <footer class="site-footer">
+        <h2>Roda pé</h2>
+    </footer>
 
 <?php wp_footer() ?>
 

@@ -7,7 +7,9 @@
     <title>Document</title>
 </head>
 <body>
-<header>
 
-</header>
+    <header>
+        <h1>Cabeçalho</h1>
+    </header>
+
 <?php get_index()?>
