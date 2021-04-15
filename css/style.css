@@ -1,0 +1,34 @@
+
+.cabecario{
+    background-color: aquamarine;
+    width: 100%;
+    height: 500px;
+
+}
+
+.corpo{
+    background-color: yellow;
+    width: 70%;
+    height: 500px;
+    display: flex;
+    position: relative;
+    left: 0;
+}
+
+.lado{
+    background-color: blueviolet;
+    width: 30%;
+    display: flex;
+    position:absolute;
+    right:8px;
+    top: 553px;
+    height: 500px;
+    
+}
+.rodape{
+    background-color: green;
+    width: 100%;
+    height: 300px;
+    display: flex;
+    position: relative;
+}

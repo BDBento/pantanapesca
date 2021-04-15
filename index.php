@@ -1,7 +1,9 @@
 <?php get_header()?>
     
     <main>
-        <h3>corpo</h3>
+        <div class="corpo">
+            <h3>corpo</h3>
+        </div>
     </main>
 
 <?php get_sidebar()?>
